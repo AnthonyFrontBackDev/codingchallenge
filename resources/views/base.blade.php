@@ -11,7 +11,9 @@
 
     @include('incs.slide')
     @include('incs.navbar')
+    @include('incs.popup')
     
 </body>
 <script src="{{ asset('assets/javascript/slider.js') }}"></script>
+<script src="{{ asset('assets/javascript/popup.js') }}"></script>
 </html>

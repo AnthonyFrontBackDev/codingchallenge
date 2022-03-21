@@ -57,6 +57,7 @@
                 <a href="mailto:example@example.com"><img src="https://img.icons8.com/fluency-systems-regular/20/000000/filled-message.png"/></a>
                 <a href="#"><img src="https://img.icons8.com/color/20/000000/france.png"/></a>
         </div>
+        
     </div>
                     <div class="social-network">
                     <p>Suivez-nous</p>

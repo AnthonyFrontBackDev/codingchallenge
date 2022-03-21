@@ -6,9 +6,8 @@ let tabSlide = [
 
 let numero = 0;
 
-
 function ChangeSlide(sens) {
-
+    
     mySlide = document.getElementById("slide").src = tabSlide[numero];
     numero = numero + sens;
     
@@ -19,4 +18,5 @@ function ChangeSlide(sens) {
 }
 setInterval("ChangeSlide(1)", 3000);
 
-//CREER L EFFET FONDU DU SLIDER
+
+

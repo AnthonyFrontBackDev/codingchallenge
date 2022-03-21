@@ -1,29 +1,26 @@
-
-
 /*--incs--*/
 
-    /*--navBar--*/
-    @import url(../incs_style/navbar.css);
-    @import url(../incs_style/slider.css);
+/*--navBar--*/
+@import url(../incs_style/navbar.css);
 
-    /*--promotionalDialogBar--*/
-    
+/* Background Slider */
+@import url(../incs_style/slider.css);
 
-
+/*-- Promotional Popup--*/
+@import url(../incs_style/popup.css);
 
 /*--Responsive--*/
 
-    /*--Full Screen--*/
+/*--Full Screen--*/
 
-    /*-- Tablet Screen--*/
+/*-- Tablet Screen--*/
 
-    /*-- Mobile Screen--*/
+/*-- Mobile Screen--*/
 
-
-
-
-    /*--config--*/
-*, ::before, ::after{
+/*--config--*/
+*,
+::before,
+::after {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -32,4 +29,3 @@
     font-style: normal;
     text-decoration: none;
 }
-
