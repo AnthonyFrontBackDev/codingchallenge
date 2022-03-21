@@ -1,0 +1,35 @@
+
+
+/*--incs--*/
+
+    /*--navBar--*/
+    @import url(../incs_style/navbar.css);
+    @import url(../incs_style/slider.css);
+
+    /*--promotionalDialogBar--*/
+    
+
+
+
+/*--Responsive--*/
+
+    /*--Full Screen--*/
+
+    /*-- Tablet Screen--*/
+
+    /*-- Mobile Screen--*/
+
+
+
+
+    /*--config--*/
+*, ::before, ::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+}
+

@@ -1,0 +1,1 @@
+<img id="slide" src="{{asset('assets/images/background.jpg')}}" alt="home-slider"> 
